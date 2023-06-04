@@ -1,4 +1,4 @@
-import data from "./allData.json";
+import data from "./allData.json";  // getting input data from this file. As suggested not pushing this file to github.
 import { useEffect, useState } from "react";
 import { constructData } from "./utility";
 import { Collection } from "./collection";
